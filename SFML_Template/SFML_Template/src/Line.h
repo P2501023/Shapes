@@ -12,8 +12,10 @@ public:
 
 private:
 
+	// Atributes
 	sf::Vector2f p1;
 	sf::Vector2f p2;
 
+	// Operation
 	void makeLine();
 };
